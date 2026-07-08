@@ -13,7 +13,7 @@ Finova adalah aplikasi **Personal Finance Tracker** yang dibuat menggunakan **Re
 
 ## Anggota Kelompok
 1. Natasya Tazkia
-2. Nama Teman
+2. Alyya Syafitri
 
 ## Teknologi
 - React JS
